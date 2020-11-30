@@ -1,0 +1,13 @@
+/docs/
+*.png
+*.psd
+.editorconfig
+
+# Git ignore
+
+algotrader.iml
+/node_modules/
+/.idea/
+/ignore/
+.DS_Store
+/objects/broker/robinhood/User.json
